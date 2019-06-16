@@ -1,0 +1,7 @@
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\bin\Debug\Tp10.exe.config
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\bin\Debug\Tp10.exe
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\bin\Debug\Tp10.pdb
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\obj\Debug\Tp10.csprojAssemblyReference.cache
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\obj\Debug\Tp10.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\obj\Debug\Tp10.exe
+C:\Users\Aldo Herrera\Desktop\Taller\TP10\Tp10\Tp10\obj\Debug\Tp10.pdb
